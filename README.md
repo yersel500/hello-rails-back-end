@@ -5,7 +5,7 @@
 The Hello Rails Back End is a project where Rails and React are installed in differents repository. The purpose is use rails for the backend and react for the frontend.
 
 # Repository the Front End
-[Hello Rails Front End](https://github.com/yersel500/hello-react-front-end)
+[Hello Rails Front End](https://github.com/yersel500/hello-react-front-end/pull/1)
 
 ## Built with
 
